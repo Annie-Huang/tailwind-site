@@ -8,3 +8,4 @@ https://tailwindcss.com/
 https://tailwindcss.com/docs/installation
 ===============================================================
 
+C:\react\tailwind-site>npm init -y
