@@ -1,0 +1,8 @@
+Your First Tailwind Website
+https://www.youtube.com/watch?v=NRagrTU_v8o
+
+https://codepen.io/chrisoncode/pen/oNbrYjv?editors=1100
+https://github.com/Annie-Huang/tailwind-site
+
+===============================================================
+
