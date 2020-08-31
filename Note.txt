@@ -6,6 +6,16 @@ https://github.com/Annie-Huang/tailwind-site
 
 https://tailwindcss.com/
 https://tailwindcss.com/docs/installation
+
+https://tailwindcss.com/docs/min-height#app
 ===============================================================
 
 C:\react\tailwind-site>npm init -y
+
+.min-h-screen	min-height: 100vh;
+
+
+If you use sass, you can do like this to use tailwind:
+.card {
+  @apply bg-white p-4 rounded-t shadow-2xl;
+}
