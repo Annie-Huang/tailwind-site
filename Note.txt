@@ -12,6 +12,7 @@ https://tailwindcss.com/docs/customizing-colors#default-color-palette
 
 https://www.iconfinder.com/
 https://www.iconfinder.com/search/?q=mountain&price=free&size=128
+https://images.unsplash.com/photo-1536012441472-aae6b3ce330f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80
 ===============================================================
 
 C:\react\tailwind-site>npm init -y
