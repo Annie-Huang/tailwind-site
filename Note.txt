@@ -8,6 +8,7 @@ https://tailwindcss.com/
 https://tailwindcss.com/docs/installation
 
 https://tailwindcss.com/docs/min-height#app
+https://tailwindcss.com/docs/customizing-colors#default-color-palette
 
 https://www.iconfinder.com/
 https://www.iconfinder.com/search/?q=mountain&price=free&size=128
